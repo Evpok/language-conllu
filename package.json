@@ -1,0 +1,15 @@
+{
+  "name": "language-conllu",
+  "main": "./lib/language-conllu",
+  "version": "0.0.0",
+  "description": "Syntax highlighting for CoNLL-U for Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/atom/language-conllu",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
