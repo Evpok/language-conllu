@@ -3,8 +3,12 @@
   "version": "0.0.0",
   "description": "Syntax highlighting for CoNLL-U for Atom",
   "keywords": [
+     "conllu"
   ],
-  "repository": "https://github.com/evpok/language-conllu",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/evpok/language-conllu"
+  },
   "license": "Apache 2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
