@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## Unreleased
 
 ## [0.1.1] - 2018-02-13T10:54:57
-[0.1.1]: https://github.com/Evpok/language-conllu/compare/v0.1.0...0.1.1
+[0.1.1]: https://github.com/Evpok/language-conllu/compare/v0.1.0...v0.1.1
 ### Fixed
   - Files now correctly detected from their extensions
 
