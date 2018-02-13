@@ -5,8 +5,8 @@
   "description": "Syntax highlighting for CoNLL-U for Atom",
   "keywords": [
   ],
-  "repository": "https://github.com/atom/language-conllu",
-  "license": "MIT",
+  "repository": "https://github.com/evpok/language-conllu",
+  "license": "Apache 2.0",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
