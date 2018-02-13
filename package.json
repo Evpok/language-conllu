@@ -1,6 +1,5 @@
 {
   "name": "language-conllu",
-  "main": "./lib/language-conllu",
   "version": "0.0.0",
   "description": "Syntax highlighting for CoNLL-U for Atom",
   "keywords": [
